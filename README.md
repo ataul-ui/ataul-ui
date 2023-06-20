@@ -2,8 +2,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ataul-ui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
 
