@@ -11,7 +11,7 @@
 hyperparameters = {
   pronouns: 'he' | 'him',
   code 👨🏼‍💻: ['Python', 'C', 'Tensorflow', 'Java', 'Keras', 'Postgres'],
-  tools ⚒: ['Flask',  'Docker', 'mlflow', 'Heroku', 'FastAPI],
+  tools ⚒: ['Flask',  'Docker', 'mlflow', 'Heroku', 'FastAPI'],
   cloud ☁️: ['AWS', 'GCP', 'Azure'],
   blog : 'https://medium.com/@ataul.akbar',
   linkedin :'https://www.linkedin.com/in/ataul-akbar-356993169/',
