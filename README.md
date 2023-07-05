@@ -3,9 +3,7 @@
 
 I am an MLOps engineer with a strong background in machine learning and software engineering. I excel in designing and implementing scalable ML infrastructure, utilizing cloud platforms and containerization technologies to streamline workflows and ensure reproducibility.
 
-<iframe src="https://giphy.com/embed/26n7b7PjSOZJwVCmY" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ciscoengemojis-security-26n7b7PjSOZJwVCmY">via GIPHY</a></p>
-
-### <img src="[https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif](https://giphy.com/gifs/ciscoengemojis-security-26n7b7PjSOZJwVCmY)" width="25"> A little more about me...  
+### A little more about me...  
 
 ```python
 hyperparameters = {
