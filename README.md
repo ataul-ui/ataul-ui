@@ -15,6 +15,7 @@ hyperparameters = {
   cloud ☁️: ['AWS', 'GCP', 'Azure'],
   blog : 'https://medium.com/@ataul.akbar',
   linkedin :'https://www.linkedin.com/in/ataul-akbar-356993169/',
+  personal website : 'https://ataulakbar.wixsite.com/plainportfolio'
 }
 ```
 
