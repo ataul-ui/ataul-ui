@@ -3,17 +3,20 @@
 
 
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) 
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> A little more about me...  
+
+```python
+hyperparameters = {
+  pronouns: 'he' | 'him',
+  code 👨🏼‍💻: ['Python', 'C', 'Tensorflow', 'Java', 'Keras', 'Postgres'],
+  tools ⚒: ['Flask',  'Docker', 'mlflow', 'Heroku', 'FastAPI],
+  cloud ☁️: ['AWS', 'GCP', 'Azure'],
+  blog : 'https://medium.com/@ataul.akbar',
+  linkedin :'https://www.linkedin.com/in/ataul-akbar-356993169/',
+}
+```
 
 <!--
 **ataul-ui/ataul-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
