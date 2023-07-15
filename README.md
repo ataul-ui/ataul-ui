@@ -7,7 +7,7 @@ I am an ML engineer with a strong background in machine learning and software en
 
 ```python
 hyperparameters = {
-  pronouns: 'he' | 'him',
+  pronouns : 'he' | 'him',
   code : ['Python', 'C', 'Tensorflow', 'Java', 'Keras', 'Postgres'],
   tools : ['Flask',  'Docker', 'mlflow', 'Heroku', 'FastAPI'],
   cloud : ['AWS', 'GCP', 'Azure'],
