@@ -8,9 +8,9 @@ I am an ML engineer with a strong background in machine learning and software en
 ```python
 hyperparameters = {
   pronouns: 'he' | 'him',
-  code 👨🏼‍💻: ['Python', 'C', 'Tensorflow', 'Java', 'Keras', 'Postgres'],
-  tools ⚒: ['Flask',  'Docker', 'mlflow', 'Heroku', 'FastAPI'],
-  cloud ☁️: ['AWS', 'GCP', 'Azure'],
+  code : ['Python', 'C', 'Tensorflow', 'Java', 'Keras', 'Postgres'],
+  tools : ['Flask',  'Docker', 'mlflow', 'Heroku', 'FastAPI'],
+  cloud : ['AWS', 'GCP', 'Azure'],
   blog : 'https://medium.com/@ataul.akbar',
   linkedin :'https://www.linkedin.com/in/ataul-akbar-356993169/',
   personal website : 'https://ataulakbar.wixsite.com/plainportfolio'
