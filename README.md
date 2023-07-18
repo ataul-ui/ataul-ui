@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am an ML engineer with a strong background in machine learning and software engineering. I excel in designing and implementing scalable ML infrastructure, utilizing cloud platforms and containerization technologies to streamline workflows and ensure reproducibility.
+I am an ML DevOps engineer with a strong background in machine learning and software engineering. I excel in designing and implementing scalable ML infrastructure, utilizing cloud platforms and containerization technologies to streamline workflows and ensure reproducibility.
 
 ### A little more about me...  
 
@@ -9,7 +9,7 @@ I am an ML engineer with a strong background in machine learning and software en
 hyperparameters = {
   pronouns : 'he' | 'him',
   code : ['Python', 'C', 'Tensorflow', 'Java', 'Keras', 'Postgres'],
-  tools : ['Flask',  'Docker', 'mlflow', 'Heroku', 'FastAPI'],
+  tools : ['FastAPI',  'Docker', 'mlflow', 'Heroku', 'OpenAI'],
   cloud : ['AWS', 'GCP', 'Azure'],
   blog : 'https://medium.com/@ataul.akbar',
   linkedin :'https://www.linkedin.com/in/ataul-akbar-356993169/',
