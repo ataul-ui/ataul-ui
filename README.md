@@ -8,7 +8,7 @@ I am an ML DevOps engineer with a strong background in machine learning and soft
 ```python
 hyperparameters = {
   pronouns : 'he' | 'him',
-  code : ['Python', 'C', 'Java', 'Postgres'],
+  code : ['Python', 'C', 'Java', C++, yaml],
   tools : ['FastAPI',  'Docker', 'Postgres', 'Heroku', 'render'],
   ML specific tools : ['dvc', 'mlflow', 'Tensorflow', 'spark'],
   cloud : ['AWS', 'GCP', 'Azure'],
