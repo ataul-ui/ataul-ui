@@ -10,11 +10,8 @@ hyperparameters = {
   pronouns : 'he' | 'him',
   code : ['Python', 'C', 'Java', 'C++', 'yaml'],
   tools : ['FastAPI',  'Docker', 'Postgres', 'Heroku', 'render'],
-  ml-specific tools : ['dvc', 'mlflow', 'Tensorflow', 'spark'],
-  cloud : ['AWS', 'GCP', 'Azure'],
-  blog : 'https://medium.com/@ataul.akbar',
-  linkedin :'https://www.linkedin.com/in/ataul-akbar-356993169/',
-  personal website : 'https://ataulakbar.wixsite.com/mlops'
+  ml specific tools : ['dvc', 'mlflow', 'Tensorflow', 'spark'],
+  cloud : ['AWS', 'GCP', 'Azure']
 }
 ```
 <!--
