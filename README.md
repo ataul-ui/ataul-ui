@@ -15,8 +15,9 @@ hyperparameters = {
 }
 ```
 
-My blog posts:
-put links to medium blogs here
+## My blog posts:
+
+[Optimal Shape for a Memristor — Semiconductors for AI](https://medium.com/@ataul.akbar/optimal-shape-for-a-memristor-semiconductors-for-ai-13a2a6825b85)
 
 
 <!--
