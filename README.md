@@ -14,6 +14,11 @@ hyperparameters = {
   cloud : ['AWS', 'GCP', 'Azure']
 }
 ```
+
+My blog posts:
+put links to medium blogs here
+
+
 <!--
 **ataul-ui/ataul-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
