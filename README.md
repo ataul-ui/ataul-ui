@@ -23,7 +23,7 @@ hyperparameters = {
 [How to build a predictive maintainance system for a smart factory — MLOps](https://medium.com/@ataul.akbar/how-to-build-a-predictive-maintainance-system-for-a-smart-factory-mlops-2b251434d7c3)
 
 
-## Other links (find better name for this)
+## Other links
 [Personal website](https://ataulakbar.wixsite.com/dweb)
 
 [linkedin](https://www.linkedin.com/in/ataul-akbar-356993169/)
