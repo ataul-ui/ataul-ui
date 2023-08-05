@@ -16,12 +16,12 @@ hyperparameters = {
 ```
 
 ## 📕 My blog posts:
+[Cost effective data collection for alzheimer’s disease prevention — Distributed Data Pipeline](https://medium.com/@ataul.akbar/cost-effective-data-collection-for-alzheimers-disease-prevention-distributed-data-pipeline-c5896424412b)
 
 [Optimal Shape for a Memristor — Semiconductors for AI](https://medium.com/@ataul.akbar/optimal-shape-for-a-memristor-semiconductors-for-ai-13a2a6825b85)
 
 [How to build a predictive maintainance system for a smart factory — MLOps](https://medium.com/@ataul.akbar/how-to-build-a-predictive-maintainance-system-for-a-smart-factory-mlops-2b251434d7c3)
 
-[Cost effective data collection for alzheimer’s disease prevention — DataOps approach](https://medium.com/@ataul.akbar/cost-effective-data-collection-for-alzheimers-disease-prevention-dataops-approach-7f9384f85d5)
 
 ## Other links (find better name for this)
 [Personal website](https://ataulakbar.wixsite.com/dweb)
