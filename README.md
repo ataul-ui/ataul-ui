@@ -24,7 +24,7 @@ hyperparameters = {
 [Cost effective data collection for alzheimer’s disease prevention — DataOps approach](https://medium.com/@ataul.akbar/cost-effective-data-collection-for-alzheimers-disease-prevention-dataops-approach-7f9384f85d5)
 
 ## Other links (find better name for this)
-[Personal website](https://ataulakbar.wixsite.com/mlops)
+[Personal website](https://ataulakbar.wixsite.com/dweb)
 
 [linkedin](https://www.linkedin.com/in/ataul-akbar-356993169/)
 <!--
