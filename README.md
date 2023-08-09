@@ -9,7 +9,7 @@ I am an Data Engineer with a strong background in distributed computing and soft
 hyperparameters = {
   pronouns : 'he' | 'him',
   code : ['Python', 'C', 'Java', 'C++', 'yaml'],
-  tools : ['FastAPI',  'Docker', 'Postgres', 'Heroku', 'render'],
+  tools : ['FastAPI',  'Docker', 'Postgres', 'Heroku', 'Terraform'],
   ml specific tools : ['dvc', 'mlflow', 'Tensorflow', 'spark'],
   cloud : ['AWS', 'GCP', 'Azure']
 }
