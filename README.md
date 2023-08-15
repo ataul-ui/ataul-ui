@@ -1,7 +1,7 @@
 ## Hi there, I'm Ataul 👋
 
 
-I am an Data Engineer with a strong background in distributed computing and software engineering. I excel in designing and implementing scalable data pipelines, utilizing cloud platforms and containerization technologies to streamline workflows and ensure reproducibility.
+I am an Software Engineer with a strong background in distributed computing and data science. I excel in designing and implementing scalable data pipelines, utilizing cloud platforms and containerization technologies to streamline workflows and ensure reproducibility.
 
 ### A little more about me...  
 
