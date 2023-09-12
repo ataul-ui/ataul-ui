@@ -10,8 +10,7 @@ hyperparameters = {
   code : ['Python', 'C', 'Java', 'C++', 'yaml'],
   tools : ['FastAPI',  'Docker', 'Postgres', 'Heroku', 'Terraform'],
   ml specific tools : ['dvc', 'mlflow', 'Tensorflow', 'spark'],
-  cloud : ['AWS', 'GCP', 'Azure'],
-  subjects : 'devops' | 'ml'
+  cloud : ['AWS', 'GCP', 'Azure']
 }
 ```
 
