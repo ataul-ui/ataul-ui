@@ -7,11 +7,11 @@ I am an Software Engineer with a strong background in distributed computing and 
 
 ```python
 hyperparameters = {
-  pronouns : 'he' | 'him',
   code : ['Python', 'C', 'Java', 'C++', 'yaml'],
   tools : ['FastAPI',  'Docker', 'Postgres', 'Heroku', 'Terraform'],
   ml specific tools : ['dvc', 'mlflow', 'Tensorflow', 'spark'],
-  cloud : ['AWS', 'GCP', 'Azure']
+  cloud : ['AWS', 'GCP', 'Azure'],
+  subjects : 'devops' | 'ml'
 }
 ```
 
