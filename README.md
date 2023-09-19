@@ -19,7 +19,7 @@ hyperparameters = {
 
 [Optimal Shape for a Memristor — Semiconductors for AI](https://medium.com/@ataul.akbar/optimal-shape-for-a-memristor-semiconductors-for-ai-13a2a6825b85)
 
-[How to build a predictive maintainance system for a smart factory — MLOps](https://medium.com/@ataul.akbar/how-to-build-a-predictive-maintainance-system-for-a-smart-factory-mlops-2b251434d7c3)
+[How to build a predictive maintainance system for a smart factory — Object Oriented ML](https://medium.com/@ataul.akbar/how-to-build-a-predictive-maintainance-system-for-a-smart-factory-mlops-2b251434d7c3)
 
 
 ## Other links
