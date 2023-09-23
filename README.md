@@ -7,7 +7,7 @@ I am an Software Engineer with a strong background in distributed computing and 
 
 ```python
 hyperparameters = {
-  code : ['Python', 'C', 'Java', 'C++', 'yaml', 'Golang'],
+  code : ['Python', 'C/C++', 'Go/Golang', 'Java', 'C++', 'yaml', 'json'],
   tools : ['FastAPI',  'Docker', 'Postgres', 'Heroku', 'Terraform'],
   ml specific tools : ['dvc', 'mlflow', 'Tensorflow', 'spark'],
   cloud : ['AWS', 'GCP', 'Azure']
