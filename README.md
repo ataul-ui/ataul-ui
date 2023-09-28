@@ -7,10 +7,11 @@ I am an Software Engineer with a strong background in distributed computing and 
 
 ```python
 hyperparameters = {
-  code : ['Python', 'C/C++', 'Go/Golang', 'Java', 'C++', 'yaml', 'json'],
-  tools : ['FastAPI',  'Docker', 'Postgres', 'Heroku', 'Terraform'],
-  ml specific tools : ['dvc', 'mlflow', 'Tensorflow', 'spark'],
-  cloud : ['AWS', 'GCP', 'Azure']
+  code : ['Java', 'Python', 'Golang', 'C/C++', 'SQL', 'YAML', 'HCL', 'Kotlin', 'RISC-V'],
+  tools : ['Git', 'DVC', 'Docker', 'Kubernetes', 'Terraform', 'VS Code', 'Heroku', 'Render', 'Postman'],
+  libraries : ['Pandas', 'NumPy', 'Matplotlib', 'Streamlit', 'MLflow', 'Hyperopt', 'RabbitMQ', 'Spark', 'Kafka', 'Airflow', 'Ignite'],
+  cloud : ['AWS', 'GCP', 'Azure'],
+  concepts : ['Cloud Computing', 'IoT, Distributed Systems', 'Pointers', 'Machine Learning', 'DevOps', 'Data Engineering']
 }
 ```
 
