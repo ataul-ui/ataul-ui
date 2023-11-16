@@ -26,7 +26,7 @@ hyperparameters = {
 ## Other links
 [Personal website](https://ataulakbar.wixsite.com/dweb)
 
-[Linkedin](https://www.linkedin.com/in/ataul-akbar-356993169/)
+[Linkedin](https://www.linkedin.com/in/ataulhaq-akbar-356993169/)
 <!--
 **ataul-ui/ataul-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
